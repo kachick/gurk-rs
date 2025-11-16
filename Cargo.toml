@@ -29,8 +29,8 @@ debug = true
 dev = ["prost", "base64"]
 
 [dependencies]
-presage = { git = "https://github.com/kachick/presage", rev = "a9c0c50152d641200b4f71ff0a4bbc83a3852ca8" }
-presage-store-sqlite = { git = "https://github.com/kachick/presage", rev = "a9c0c50152d641200b4f71ff0a4bbc83a3852ca8" }
+presage = { git = "https://github.com/kachick/presage", rev = "e29aa9bdf4943d3f11365095d854612e03c09c5d" }
+presage-store-sqlite = { git = "https://github.com/kachick/presage", rev = "e29aa9bdf4943d3f11365095d854612e03c09c5d" }
 
 # dev feature dependenciestoml
 prost = { version = "0.13.4", optional = true }
